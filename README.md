@@ -30,9 +30,7 @@ We also just added experimental support for taking a video/screen recording of a
 
 [Follow me on Twitter for updates](https://twitter.com/_abi_).
 
-## 🌍 Hosted Version
 
-[Try it live on the hosted version (paid)](https://screenshottocode.com).
 
 ## 🛠 Getting Started
 
